@@ -1,0 +1,19 @@
+{
+    "description": "this is examole",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guanzichen",
+            "email": "784854478@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "hello\\": "src/"
+        }
+    }
+}
